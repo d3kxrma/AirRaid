@@ -1,8 +1,9 @@
 # Terms and Conditions
-#Interpretation and Definitions
-##Interpretation
+
+# Interpretation and Definitions
+## Interpretation
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
-##Definitions
+## Definitions
 For the purposes of these Terms and Conditions:
 
 Application means the software program provided by the Company downloaded by You on any electronic device, named Air Raid
@@ -24,7 +25,7 @@ Terms and Conditions (also referred as "Terms") mean these Terms and Conditions 
 Third-party Social Media Service means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
 
 You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
-##Acknowledgment
+## Acknowledgment
 These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
 
 Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
@@ -40,7 +41,7 @@ Our Service may contain links to third-party web sites or services that are not 
 The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
 We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
-##Termination
+## Termination
 We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
 
 Upon termination, Your right to use the Service will cease immediately.
