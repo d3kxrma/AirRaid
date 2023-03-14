@@ -6,6 +6,8 @@ The use of this application ("Air Raid") in a server requires the collection of 
 
 Access to Data is only permitted to Bot's developers, and only in the scope required for the development, testing, and implementation of features for Bot. Data is not sold, provided to, or shared with any third party, except where required by law or a Terms of Service agreement.
 
+The administration has the right to use some personal data (Server id, Channel id, User id) to carry out technical work directly on the user's server, to check users in case of suspicious behavior and to identify potentially dangerous users and servers.
+
 ## Storage of Data
 
 Data is stored in a SQlite3 database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application.
