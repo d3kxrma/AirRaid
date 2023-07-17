@@ -14,7 +14,7 @@ Data is stored in a SQlite3 database. The database is secured to prevent externa
 
 ## Data Deletion
 
-All the collected data ("Server id, Channel id") will be automatically deleted as soon as you delete the bot from your server. For data deletion or any related questions you can contact the bot owner `dekxrma#9586` or join [support server](https://discord.com/invite/ss69hu5C6W)
+All the collected data ("Server id, Channel id") will be automatically deleted as soon as you delete the bot from your server. For data deletion or any related questions you can contact the bot owner `dekxrma` or join [support server](https://discord.com/invite/ss69hu5C6W)
 
 ## User Rights
 
@@ -26,4 +26,4 @@ The use of the Bot is not permitted for minors under the age of 13. This is in c
 
 ## Questions
 
-If you have any questions or are concerned about what data might be being stored from your account contact `dekxrma#9586`. For more information check the [Discord Terms Of Service](https://discord.com/terms).
+If you have any questions or are concerned about what data might be being stored from your account contact `dekxrma`. For more information check the [Discord Terms Of Service](https://discord.com/terms).
